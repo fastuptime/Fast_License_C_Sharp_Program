@@ -10,6 +10,9 @@
 
 Welcome to the **Fast License C# Program** repository! This program is designed to handle license validation and system information retrieval for the Fast License system. It allows users to enter a license key and checks its validity by communicating with the Fast License API. The program gathers comprehensive system information and displays it in a user-friendly interface.
 
+💻 [Administration Panel Section](https://github.com/fastuptime/Fast_License_C_Sharp_PANEL) 💻
+
+
 ## Features 🚀
 
 - **License Validation**: Check the validity of a license key.
